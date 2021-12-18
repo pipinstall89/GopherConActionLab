@@ -1,6 +1,6 @@
-name: Tweeter Action
-author: devigned
-description: Simple action to send a tweet via an GitHub Action.
+name: Am I Doing This Right?
+author: pipinstall89
+description: Create a GitHub Action with GO!
 inputs:
   message:
     description: 'message you want to tweet'
